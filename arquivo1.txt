@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Nome: Pedro Henrique Gragen Dourado
-Tópico Essenciais para Programação
+Respondendo a lista de exercicios do github
